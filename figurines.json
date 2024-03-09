@@ -1,0 +1,30 @@
+{
+    "categories": 
+    [
+        {  
+            "title": "Sakata Gintoki",
+            "price": "$23.99",
+            "pic": "./images/sakata.jpg",
+            "url": "https://www.ebay.com/itm/275424631111?chn=ps&norover=1&mkevt=1&mkrid=711-166974-028196-7&mkcid=2&mkscid=101&itemid=275424631111&targetid=2272400841986&device=c&mktype=pla&googleloc=9017770&poi=&campaignid=20973490685&mkgroupid=158327257419&rlsatarget=pla-2272400841986&abcId=9373525&merchantid=622875480&gad_source=1&gclid=CjwKCAiAi6uvBhADEiwAWiyRdvdSkkkh28pAjJx_dXSgwKUvkZHLPffUafOVtQSwsSPrv-OwjWSyOhoCU5UQAvD_BwE"
+        },
+        {
+            "title": "Vinsmoke Sanji",
+            "price": "$26.99",
+            "pic": "./images/sanji.jpg",
+            "url": "https://store.crunchyroll.com/products/one-piece-sanji-king-of-artist-wanokuni-figure-4983164197181.html?utm_source=google&utm_medium=paid_cr&utm_campaign=Ecomm_US-CA_US_Ecom_Pmax_Evergreen_230101_E-COMM_MKTG&referrer=google_paid_cr_Ecomm_US-CA_US_Ecom_Pmax_Evergreen_230101_E-COMM_MKTG&gad_source=1&gclid=CjwKCAiAi6uvBhADEiwAWiyRdmLAWNZQ7_fSgOPGQG8NVjyrz3MM6yfi3AiOofd_a_80fxCd0_-ycBoCJkkQAvD_BwE"
+        },
+        {
+            "title": "Hinata Shoyo",
+            "price": "$29.99",
+            "pic": "./images/hinata.jpg",
+            "url": "https://store.crunchyroll.com/products/haikyu-shoyo-hinata-prize-figure-4983164890747.html?utm_source=google&utm_medium=paid_cr&utm_campaign=Ecomm_US-CA_US_Ecom_Pmax_Evergreen_230101_E-COMM_MKTG&referrer=google_paid_cr_Ecomm_US-CA_US_Ecom_Pmax_Evergreen_230101_E-COMM_MKTG&gad_source=1&gclid=CjwKCAiAi6uvBhADEiwAWiyRdq1wCgz-PvR9lF71rUHUayPNXMlRNzJgr4F4FzFmxECz4rGEPIUEoxoCkN0QAvD_BwE"
+        }
+    ]
+}
+ 
+ 
+
+
+
+
+

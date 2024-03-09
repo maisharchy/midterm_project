@@ -1,0 +1,25 @@
+{
+    "categories": 
+    [
+        {
+            "title": "Naruto Uzumaki",
+            "price": "$29.99",
+            "pic": "./images/NarutoHoodie.png",
+            "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwi3js6OlOOEAxVWR0cBHcvFBewYABANGgJxdQ&ase=2&gclid=CjwKCAiA6KWvBhAREiwAFPZM7sVtrGBw7-BxEcJ6P437Gd-CzZaD353Ol4j5NeZtyh6FH3skoVx5RRoC1oIQAvD_BwE&ohost=www.google.com&cid=CAESVeD2rGDxRDiVHm0GjwXbsgGeAgsc0fyX91Z87KrFFbpj2PV3OVJTyeyinAxJsHNiSI8P76wPDIHxPL0QPSLSN20PRD1b98hOijfh7iIQJaXcO4R3H-4&sig=AOD64_0qaMOvD6fTEJaOH-Tz-pZeUsUn9Q&ctype=5&q=&nis=4&ved=2ahUKEwj3x8aOlOOEAxXPjIkEHTTAB5wQ9aACKAB6BAgBEB4&adurl="
+        },
+        {
+            "title": "Monkey D Luffy",
+            "price": "$48.62",
+            "pic": "./images/OnePieceHoodie.png",
+            "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjY1Y7olOOEAxUackcBHZ_XCAIYABAQGgJxdQ&ase=2&gclid=CjwKCAiA6KWvBhAREiwAFPZM7uC7xfRRjac7IHxMB6N0bSegmfwm_M9_37MdLao-v_rGxACg_GUBvRoCy1sQAvD_BwE&ohost=www.google.com&cid=CAESVeD2vvkXLfQ8B5wy_nZQ2iQN-Hqo7sEJHOYQJuZ_X1I7GYz_PrZ2Xn3xCB-PeWi00pL1lXRftbCvjV1lWxd-0gjzhvpK8mbFJzoZGxGTmMSbtJ84vAA&sig=AOD64_397bMb9sWM637BnlXD0C-IOVarbQ&ctype=5&q=&nis=4&ved=2ahUKEwj-sYbolOOEAxWkmYkEHWnzAJ4Q9aACKAB6BAgDEDM&adurl="
+        },
+        {
+            "title": "Ichigo Kurosaki",
+            "price": "$49.99",
+            "pic": "./images/BleachHoodie.png",
+            "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk9MakleOEAxX8R0cBHa3WBQwYABAPGgJxdQ&ase=2&gclid=CjwKCAiA6KWvBhAREiwAFPZM7kHreElpsHY4wHmxO2ahEAY8AFMHm182TVJHzoPexuswKQmh3X3FmhoCFYQQAvD_BwE&ohost=www.google.com&cid=CAESVeD208yRJhD6XFbe0fd99YvQK0Bq5EZ7jLDmDx9d8rWF-Q_z6QCTntenFj35-Od7QcpbQZrezACIKvTFeS8WgPhP9v2M4C7HyyjhFkVza1ogd1wcaB8&sig=AOD64_0cB98v6RuIyZFPE0Zv58q5z3BYsg&ctype=5&q=&nis=4&ved=2ahUKEwjCu8CkleOEAxXIjIkEHc7cDzYQ9aACKAB6BQgHEJIB&adurl="
+        }
+    ]
+}
+
+

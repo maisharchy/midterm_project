@@ -1,0 +1,25 @@
+{
+    "categories": 
+    [
+        {
+            "title": "Shinsuke Takasugi",
+            "price": "$7.94",
+            "pic": "./images/takasugi.jpg",
+            "url": "https://www.suruga-ya.com/en/product/508909450?gad_source=1&gclid=CjwKCAiAi6uvBhADEiwAWiyRdusYbyxJf6gefx9U7dobtlVDTMlWAl0eVT4zsqviMqLCOu7q2QPldBoChQkQAvD_BwE"
+        },
+        {
+            "title": "Itachi Uchiha",
+            "price": "$9.99",
+            "pic": "./images/itachi.jpg",
+            "url": "https://www.amazon.com/Trends-International-Naruto-Unframed-Version/dp/B086FFXGDN/ref=asc_df_B086FFXGDN/?tag=hyprod-20&linkCode=df0&hvadid=459694605965&hvpos=&hvnetw=g&hvrand=7150135974587765566&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1015640&hvtargid=pla-1008885268037&psc=1&mcid=682a5a43d9d4320b97592a79ea7606d5&gclid=CjwKCAiAi6uvBhADEiwAWiyRdtvhCwPLFSU4f0L0gJQpnuxVOp2V8a0FHF8Pam6k3sKQqQ3v6-KHExoC-msQAvD_BwE"
+        },
+        {
+            "title": "Thorfinn Karlsefni",
+            "price": "$20.88",
+            "pic": "./images/saga.jpg",
+            "url": "https://www.amazon.com/Vinland-Posters-Thorfinn-Karlsefni-12x18inch/dp/B0CQ2B22HC?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&smid=A1GN1WVSLG7DJN&th=1"
+        }
+    ]
+}
+ 
+ 

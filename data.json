@@ -1,0 +1,24 @@
+{
+    "categories": [
+        {
+            "title": "Hoodies",
+            "price": "starting from $29.99",
+            "pic": "./myotherimages/hoodie.webp",
+            "url": "./hoodies.html"
+        },
+
+        {
+            "title": "Figurines",
+            "price": "starting from $23.99",
+            "pic": "./myotherimages/minato.webp",
+            "url": "./figurines.html"  
+        },
+
+        {
+            "title": "Posters",
+            "price": "starting from $7.94",
+            "pic": "./myotherimages/ace.jpg",
+            "url": "./posters.html"
+        }
+    ]
+}
